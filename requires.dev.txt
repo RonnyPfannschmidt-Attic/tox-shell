@@ -1,0 +1,7 @@
+click
+setuptools
+pip
+pytest
+tox
+bpython
+pdbpp
